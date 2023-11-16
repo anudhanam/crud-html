@@ -45,7 +45,7 @@ CREATE TABLE `tbl_employees` (
 --
 
 INSERT INTO `tbl_employees` (`id`, `name`, `phone`, `email`, `address`, `designation`, `created_at`, `updated_at`, `created_by`, `updated_by`) VALUES
-(1, 'Anu', '123456', 'anu@test.com', 'Doha', 'Web Developer', '2023-11-15 13:30:41', '2023-11-15 13:30:41', NULL, NULL),
+(1, 'Anu', '123456', 'anu@test.com', 'Doha', 'Software Developer', '2023-11-15 13:30:41', '2023-11-15 13:30:41', NULL, NULL),
 (2, 'Priya', '33333', 'priya@test.com', 'Qatar', 'HR', '2023-11-15 14:07:46', '2023-11-15 14:07:46', NULL, NULL);
 
 --
